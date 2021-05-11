@@ -1,5 +1,5 @@
 
-## O que deverá ser desenvolvido
+## Apresentação
 
 O app foi desenvolvido utilizando a arquitetura MSC!
 
